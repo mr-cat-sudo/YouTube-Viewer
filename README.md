@@ -164,7 +164,7 @@ Simple program to increase YouTube views written in Python. Works with live stre
   
   Open command prompt and type
   ```
-  git clone ://https://github.com/mr-cat-sudo/YouTube-Viewer.git --depth 10
+  git clone https://github.com/mr-cat-sudo/YouTube-Viewer.git --depth 10
   ```
   ```
   cd YouTube-Viewer
@@ -203,7 +203,7 @@ Simple program to increase YouTube views written in Python. Works with live stre
   
   Open your favourite terminal and run
    ```
-  git clone ://https://github.com/mr-cat-sudo/YouTube-Viewer.git --depth 10
+  git clone https://github.com/mr-cat-sudo/YouTube-Viewer.git --depth 10
   ```
   ```
   cd YouTube-Viewer
